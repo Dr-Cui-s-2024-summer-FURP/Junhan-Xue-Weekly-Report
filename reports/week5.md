@@ -18,4 +18,6 @@ Here are part of the result:
 
 
 ### visualize:
+rviz2
+ros2 bag play static_data_0.db3 --loop
 ![v](./week5/visual.jpeg)
