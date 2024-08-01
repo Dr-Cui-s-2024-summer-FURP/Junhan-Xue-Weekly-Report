@@ -9,3 +9,5 @@
 [week4](./reports/week4.md)
 
 [week5](./reports/week5.md)
+
+[week6](./reports/week6.md)
